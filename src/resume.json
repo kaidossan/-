@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Barat Javadi",
+    "label": "Software Architect",
+    "picture": "me.png",
+    "email": "javadib67@gmail.com",
+    "phone": "(936) 956-1983",
+    "website": "http://javadib.me",
+    "summary": "Accomplished software engineer specializing in object-oriented approaches to database, network and platform development. Extensive background in full life-cycle of software development process including requirement gathering, design, coding, test, debug and maintenance. Proven track record of designing and implementing flexible solutions which support frequent and functionality changes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Tehran",
+      "countryCode": "",
+      "region": "Iran"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "javadib",
+        "url": "https://twitter.com/javadib"
+      },
+      {
+        "network": "Github",
+        "username": "javadib",
+        "url": "https://github.com/javadib"
+      },
+      {
+        "network": "Linkedin",
+        "username": "baratjavadi",
+        "url": "https://ir.linkedin.com/in/baratjavadi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Profa (Remotely)",
+      "position": "Software Consultant",
+      "website": "http://profa.net",
+      "startDate": "2015-09-01",
+      "endDate": "2016-05-01",
+      "summary": "Coordinate with product developers, software designers, testing and consultants to ensure completion of project requirements in a timely manner. Developed android programs in android team.",
+      "highlights": []
+    },
+    {
+      "company": "Mabnaware (Remotely)",
+      "position": "Android Developer",
+      "website": "http://mabnaware.com",
+      "startDate": "2014-10-01",
+      "endDate": "2015-10-01",
+      "summary": "Developed, implemented and maintained android insurance applications that calculate the five insurance types. Ported desktop app to mobile version.",
+      "highlights": []
+    },
+    {
+      "company": "Asianet",
+      "position": "Software Project Manager",
+      "website": "",
+      "startDate": "2014-02-01",
+      "endDate": "",
+      "summary": "Responsible for delivering projects against agreed scope, schedule & product owner expectations. Doing this whilst supervising, directing & motivating. Sometime design tools and research in security scope.",
+      "highlights": []
+    },
+    {
+      "company": "Rayan Cactus",
+      "position": "CEO & Team Lead",
+      "website": "http://rayancactus.com",
+      "startDate": "2012-07-01",
+      "endDate": "2014-02-01",
+      "summary": "Responsible for Manage and boost develop team. and product owner expectations. Also develop some financial and warhouse desktop apolication.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Think Python",
+      "position": "Translator",
+      "website": "http://thinkpython.ir",
+      "startDate": "2016-01-01",
+      "endDate": "2016-02-01",
+      "summary": "Persian translate of think python book, chapter 13.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "PayamNoor University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2014-06-01",
+      "gpa": "",
+      "courses": [
+        "Delphi Fundamental for Beginners Trainer",
+        "C# Fundamental for Beginners Trainer",
+        "C++ by Example for Beginners Trainer"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "MongoDB Quick Start Guide",
+      "publisher": "Dotnettips",
+      "releaseDate": "2015-01-01",
+      "website": "http://www.dotnettips.info/search/label/mongodb#/page/1/date/desc",
+      "summary": "A tutorial series of mongodb from scratch in Persian that describes the CRUD, administration and deployment operation."
+    },
+    {
+      "name": "SQL Reference Guide",
+      "publisher": "AGHAZEH",
+      "releaseDate": "2012-01-01",
+      "website": "https://www.aghazeh.com/کتابهای-پایگاه-داده/sql-refrence-w3schools.html",
+      "summary": "SQL cookbook that describes about the sql language in common RDBMS with examples. The SQL Server examples attached in book."
+    },
+    {
+      "name": "OOP in C# Programming",
+      "publisher": "AGHAZEH",
+      "releaseDate": "2012-01-01",
+      "website": "",
+      "summary": "Persian translation of C# stpe by step book, chapter 7."
+    }  
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "ASP.NET MVC",        
+        "Node.js",
+        "Express.js",
+        "Loopback Framework",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Advanced",
+      "keywords": [
+        "SQL Server",
+        "MySQL",
+        "Mongodb",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "level": "Advanced",
+      "keywords": [
+        "Java",
+        "Retrofit",
+        "Suger ORM",
+        "GreenDao"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Intermediate",
+      "keywords": [
+        "Rapid Miner",
+        "NLTK",
+        "Numpy",
+        "Pandas"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Swimming",
+        "Handball",
+        "Tenis Table"
+      ]
+    },
+    {
+      "name": "Relaxation",
+      "keywords": [
+        "Reading Books",
+        "Instrumental Music"
+      ]
+    },
+    {
+      "name": "Hobby",
+      "keywords": [
+        "Research",
+        "Home Automation",
+        "Raspberry pi"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mey3am Mohaammdi",
+      "website": "https://ir.linkedin.com/in/mey3am-mohammadi-770945b7",
+      "reference": "Barat is so responsible and he can manage a team very good. His enthusiasm in works causes improvement in group and other coworkers."
+    }
+  ]
+}
